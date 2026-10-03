@@ -1,0 +1,6 @@
+{
+  "name": "Grupo Integral - Soluciones y Desarrollo",
+  "description": "Landing page corporativa de Grupo Integral: Soluciones líderes en Paneles Solares, Pavimentación, Energía Solar, Iluminación LED e Inteligencia Artificial.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
